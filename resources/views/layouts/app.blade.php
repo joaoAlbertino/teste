@@ -9,7 +9,7 @@
 
     <!-- Fonts -->
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" >
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700">
+    <link rel="stylesheet" href="css/font/font.css">
 
     <!-- Styles -->
    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
